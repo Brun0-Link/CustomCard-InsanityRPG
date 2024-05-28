@@ -1,4 +1,4 @@
-Cards customizados para o RPG "Insanide - v.3"
+Cards customizados para o RPG "Insanidade - v.3"
 
 Schema:
 
